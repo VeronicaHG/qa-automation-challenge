@@ -52,13 +52,13 @@ The following areas were covered:
 git clone https://github.com/VeronicaHG/your-repo-name.git
 
 2. Install dependencies:
-```bash 
+
 npm install
 
 3. Run tests:
-```bash
-npx playwright test
 
+npx playwright test
+```bash
 
 ## 🧪 Test Strategy
 
