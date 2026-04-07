@@ -41,71 +41,20 @@ The following areas were covered:
 -/exploratory-testing → notes, findings, scenarios
 -/fixtures → test data
 
+---
 
 ## ▶️ How to Run the Tests
 
 1. Clone the repository:
+
+```bash
 git clone https://github.com/VeronicaHG/your-repo-name.git
 
 2. Install dependencies:
+```bash
 npm install
 
 3. Run tests:
+```bash
 npx playwright test
 
-##🧪 Test Strategy
-
-This project combines:
-
-Exploratory testing to discover unexpected issues
-Automated UI testing for critical flows
-API testing to validate backend behavior
-
-Priority was given to:
-
-Critical user journeys
-High-risk functionalities
-Input validation and error scenarios
-
-##✅ Key Test Scenarios
-
-Add transaction flow
-Form validation (valid/invalid inputs)
-Error messages handling
-UI consistency
-API response validation
-
-##🐞 Bugs & Findings
-
-Some issues identified during testing include:
-
-Missing validation on input fields
-Inconsistent error messages
-UI behavior issues in edge cases
-
-👉 See detailed findings in:
-/exploratory-testing
-
-##🚀 Improvements
-
-Future improvements could include:
-
-Integration with CI/CD (GitHub Actions)
-Test reporting (HTML reports)
-Increased test coverage
-Data-driven testing
-
-##🤝 Contribution
-
-This project is open to improvements and collaboration.
-
-If you'd like to contribute:
-
-Fork the repo
-Create a feature branch
-Submit a pull request
-
-##👩‍💻 Author
-
-Veronica
-QA Engineer focused on test automation and quality processes
