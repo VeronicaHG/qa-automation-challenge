@@ -48,17 +48,15 @@ The following areas were covered:
 
 1. Clone the repository:
 
-
+```bash
 git clone https://github.com/VeronicaHG/your-repo-name.git
 
-## ▶️ How to Run the Tests
-
 2. Install dependencies:
- 
+```bash 
 npm install
 
 3. Run tests:
-
+```bash
 npx playwright test
 
 
@@ -81,7 +79,7 @@ Form validation (valid/invalid inputs)
 Error messages handling
 UI consistency
 API response validation
-##🐞 Bugs & Findings
+## 🐞 Bugs & Findings
 
 Some issues identified during testing include:
 
