@@ -34,12 +34,7 @@ The following areas were covered:
 - **Test Design:** Manual + Automated  
 
 ---
-
-## 📂 Project Structure
-/tests → UI automated test cases
-/api-tests → API validation tests
-/exploratory-testing → notes, findings, scenarios
-/fixtures → test data
+<pre> ## 📂 Project Structure ``` /tests → UI automated test cases /api-tests → API validation tests /exploratory-testing → notes, findings, scenarios /fixtures → test data ``` </pre>
 
 ---
 
