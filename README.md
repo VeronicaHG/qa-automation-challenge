@@ -35,7 +35,10 @@ The following areas were covered:
 
 ---
 ## 📂 Project Structure 
-<pre> ``` /tests → UI automated test cases /api-tests → API validation tests /exploratory-testing → notes, findings, scenarios /fixtures → test data ``` </pre>
+<pre> /tests → UI automated test cases 
+      /api-tests → API validation tests 
+      /exploratory-testing → notes, findings, scenarios 
+      /fixtures → test data </pre>
 
 ---
 
