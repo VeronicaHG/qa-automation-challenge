@@ -50,9 +50,12 @@ The following areas were covered:
 
 ```bash
 git clone https://github.com/VeronicaHG/your-repo-name.git
+```bash
+
 ## ▶️ How to Run the Tests
 
 2. Install dependencies:
+</> bash
 npm install
 
 3. Run tests:
