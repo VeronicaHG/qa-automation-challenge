@@ -50,25 +50,22 @@ The following areas were covered:
 
 ```bash
 git clone https://github.com/VeronicaHG/your-repo-name.git
----
+## ▶️ How to Run the Tests
+
 2. Install dependencies:
-```bash
 npm install
----
+
 3. Run tests:
-```bash
 npx playwright test
 
 
-
-
-🧪 Test Strategy
+##🧪 Test Strategy
 
 This project combines:
 
-Exploratory testing to discover unexpected issues
-Automated UI testing for critical flows
-API testing to validate backend behavior
+- Exploratory testing to discover unexpected issues
+- Automated UI testing for critical flows
+- API testing to validate backend behavior
 
 Priority was given to:
 
@@ -81,7 +78,7 @@ Form validation (valid/invalid inputs)
 Error messages handling
 UI consistency
 API response validation
-🐞 Bugs & Findings
+##🐞 Bugs & Findings
 
 Some issues identified during testing include:
 
