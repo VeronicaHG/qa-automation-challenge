@@ -36,10 +36,10 @@ The following areas were covered:
 ---
 
 ## 📂 Project Structure
-/tests → UI automated test cases
-/api-tests → API validation tests
-/exploratory-testing → notes, findings, scenarios
-/fixtures → test data
+-/tests → UI automated test cases
+-/api-tests → API validation tests
+-/exploratory-testing → notes, findings, scenarios
+-/fixtures → test data
 
 
 ## ▶️ How to Run the Tests
@@ -54,6 +54,7 @@ npm install
 npx playwright test
 
 🧪 Test Strategy
+
 This project combines:
 
 Exploratory testing to discover unexpected issues
@@ -67,6 +68,7 @@ High-risk functionalities
 Input validation and error scenarios
 
 ✅ Key Test Scenarios
+
 Add transaction flow
 Form validation (valid/invalid inputs)
 Error messages handling
